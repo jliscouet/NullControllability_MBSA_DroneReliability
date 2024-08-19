@@ -12,12 +12,18 @@ This section contains the UAV system architecture models created in System Analy
 Step-by-Step Guide for Using the Files
 Step 1 - Create or Open a System Model:
 Use System Analyst 1.3 to create a new system model or open an existing one from the System Analyst repository.
+
 Step 2 - Compile the System Model:
 In System Analyst 1.3, compile the system model into an AltaRica 3.0 model, generating a .alt file.
+
 Step 3 - Run the MATLAB Script:
 Open MATLAB R2022b and run InCtrb_AltaRica_rev2.m.
+
 Step 4 - Use the GUI to Configure the Assessment:
 Via the GUI, select your UAV design. Choose the maximum number of simultaneous failures to be considered. Decide whether to include the Yaw axis controllability requirement. Select the AltaRica 3.0 model you created in Step 2.
+
 Step 5 - Generate the New AltaRica 3.0 Model:
-Choose a name for the new AltaRica 3.0 model that will integrate the selected design with the controllability assessment. Compile and Compute Reliability Metrics:
-Step 6 - Use AltaRicaWizard 1.2.0 to compile the new AltaRica 3.0 model created in Step 5 and compute the reliability metrics.
+Choose a name for the new AltaRica 3.0 model that will integrate the selected design with the controllability assessment.
+
+Step 6 - Compile and Compute Reliability Metrics:
+Use AltaRicaWizard 1.2.0 to compile the new AltaRica 3.0 model created in Step 5 and compute the reliability metrics.
