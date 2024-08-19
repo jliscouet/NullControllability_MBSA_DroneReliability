@@ -1,5 +1,5 @@
 # NullControllability_MBSA_DroneReliability
-This repository contains the essential codes and system architectures used in the research paper titled "Integrating Null Controllability and Model-Based Safety Assessment for Enhanced Reliability in Drone Design." The repository is divided into two main sections:
+This repository contains the essential codes and models used in the research paper titled "Integrating Null Controllability and Model-Based Safety Assessment for Enhanced Reliability in Drone Design." The repository is divided into two main sections:
 
 1. MATLAB Repository
 This section includes two key MATLAB R2022b files for performing an ACAI-based controllability assessment of a selected UAV design:
