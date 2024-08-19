@@ -9,7 +9,7 @@ This section includes two key MATLAB R2022b files for performing an ACAI-based c
 2. System Analyst Repository
 This section contains the UAV system architecture models created in System Analyst 1.3, corresponding to the designs from iterations 1 to 6 for Scenario 1 and iterations 1 to 5 for Scenario 2, as discussed in the paper. Each model illustrates the progression of design changes across the iterations.
 
-Step-by-Step Guide for Using the Files
+# Step-by-Step Guide
 Step 1 - Create or Open a System Model:
 Use System Analyst 1.3 to create a new system model or open an existing one from the System Analyst repository.
 
